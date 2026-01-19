@@ -12,10 +12,10 @@
 - Pizza, Pasta and Waffles showed stable demand, indicating steady consumer interest
 <img width="958" height="583" alt="image" src="https://github.com/user-attachments/assets/bad5290a-e462-4ee3-b3c2-05f06bf83f67" />
 
--Neighbourhood Healthiness Index
+### Neighbourhood Healthiness Index
 <img width="1496" height="696" alt="image" src="https://github.com/user-attachments/assets/19a1b8d7-a1d9-4d1f-a4c3-58ab234c6df2" />
 
--Restaurants Healthiness Index
+### Restaurants Healthiness Index
 <img width="1454" height="715" alt="image" src="https://github.com/user-attachments/assets/d95b71ed-ce75-4d23-9e7f-f53feb6af279" />
 
 <img width="730" height="677" alt="image" src="https://github.com/user-attachments/assets/612c6648-a337-459a-9aba-f7838d711819" />
