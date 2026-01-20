@@ -1,4 +1,4 @@
-# Predicting Emerging Food Trend Yelp Reviews Sentiment Topic Anaysis
+# Predicting Emerging Food Trends from Yelp Reviews: Sentiment and Topic Analysis
 
 ## Goal: Identifying emerging culinary trends using Yelp data review.
 
